@@ -4,9 +4,15 @@ GEN AI & AGENTIC AI APPROACH FOR IDENTIFICATION AND CLASSIFICATION OF AUTISM SPE
 ## Overview  
 This project implements a deep learning based system to identify Autism Spectrum Disorder (ASD) from MRI brain images using Generative AI and Agentic AI concepts. ResNet50 with transfer learning is used for classification, Grad-CAM provides explainability, and a Gradio interface enables easy predictions.
 
-## Dataset  
-Kaggle – Autism Pre-processed MRI Dataset  
-(Dataset not uploaded due to license restrictions)
+## Dataset
+
+The dataset used for this project is taken from Kaggle:
+
+Autism Pre-processed MRI Dataset  
+https://www.kaggle.com/datasets/dswainsonsujana/autism-preprocessed-mri-dataset
+
+Due to Kaggle licensing restrictions, the dataset is not included in this repository.
+
 
 ## Model  
 ResNet50 (Transfer Learning)  
@@ -34,7 +40,10 @@ Note: This system is for academic and research purposes only and not intended fo
 4. Run all cells
 
 ## Team  
-# Dashami C A, Bibi Zainab M Saikalgar, Nikitha M Koujalagi, Payal Pradeep Jain
+# Dashami C A
+# Bibi Zainab M Saikalgar
+# Nikitha M Koujalagi
+# Payal Pradeep Jain
 
 Note:
 This notebook is under active development. Some cells may require re-running or minor fixes depending on environment setup.
