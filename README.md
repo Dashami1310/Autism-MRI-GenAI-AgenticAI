@@ -1,2 +1,26 @@
 # Autism-MRI-GenAI-AgenticAI
-GenAI and Agentic AI based system for identification and classification of Autism Spectrum Disorder using MRI images.
+GEN AI & AGENTIC AI APPROACH FOR IDENTIFICATION AND CLASSIFICATION OF AUTISM SPECTRUM DISORDER IN MRI IMAGES
+
+Overview  
+This project implements a deep learning based system to identify Autism Spectrum Disorder (ASD) from MRI brain images using Generative AI and Agentic AI concepts. ResNet50 with transfer learning is used for classification, Grad-CAM provides explainability, and a Gradio interface enables easy predictions.
+
+Dataset  
+Kaggle – Autism Pre-processed MRI Dataset  
+(Dataset not uploaded due to license restrictions)
+
+Model  
+ResNet50 (Transfer Learning)  
+Accuracy: 91%
+
+Tools  
+Python, Google Colab, PyTorch, Grad-CAM, Gradio
+
+How to Run  
+1. Open notebook in Colab  
+2. Download dataset from Kaggle  
+3. Upload dataset  
+4. Run all cells
+
+Team  
+Dashami C A, Bibi Zainab M Saikalgar, Nikitha M Koujalagi, Payal Pradeep Jain
+
